@@ -1,0 +1,4 @@
+#!/usr/bin/env escript
+%%! -noinput -pa ../deps/cecho/ebin -pa ../ebin +A 50
+
+main(_) -> fresh:run().

@@ -1,0 +1,7 @@
+{application, fresh,
+ [{description, "Fancy Remote Erlang SHell"},
+  {vsn, "2.0"},
+  {modules, []},
+  {mod, fresh},
+  {registered, []},
+  {applications, []}]}.
